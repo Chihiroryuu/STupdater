@@ -1,4 +1,4 @@
-# Simple README (Windows Only)
+
 
 ## 1. Install Git
 
