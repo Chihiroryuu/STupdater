@@ -5,7 +5,7 @@
 Download & install Git untuk Windows:
 [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
-Cek instalasi:
+Cek instalasi buka powershell/CMD:
 
 ```sh
 git --version
