@@ -46,14 +46,12 @@ python installer.py
 Jika perlu environment variable:
 
 ```sh
-set API_KEY=apikey_kamu
 python installer.py
 ```
 
 (PowerShell)
 
 ```powershell
-$env:API_KEY = "apikey_kamu"
 python installer.py
 ```
 
