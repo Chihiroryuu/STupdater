@@ -43,18 +43,6 @@ python --version
 python installer.py
 ```
 
-Jika perlu environment variable:
-
-```sh
-python installer.py
-```
-
-(PowerShell)
-
-```powershell
-python installer.py
-```
-
 ---
 
 ## 5. Dependencies
