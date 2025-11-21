@@ -61,4 +61,4 @@ Tidak ada dependency tambahan. Cukup Python + file `installer.py`.
 
 JIKA TIDAK MAU RIBET DOWNLOAD INI AJA EXTRACT & INSTALL
 
-https://drive.google.com/file/d/1RFd-hlsgyZkvhXMljHsXgCDT42GffG6O/view?usp=drive_link
+[LINK DOWNLOAD](https://gofile.io/d/Eb2FXj)
