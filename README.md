@@ -59,6 +59,7 @@ Tidak ada dependency tambahan. Cukup Python + file `installer.py`.
 ---
 
 
-JIKA TIDAK MAU RIBET DOWNLOAD INI AJA EXTRACT & INSTALL
+JIKA TIDAK MAU RIBET DOWNLOAD INI AJA EXTRACT
+buka direktori steam.exe Anda, lalu -> folder plugins -> folder baru (beri nama apa pun), kemudian ekstrak isi file zip ke dalamnya. Untuk menemukan folder plugins dengan mudah, buka Steam, buka tombol Steam di pojok kiri atas -> Millennium -> plugins -> jelajahi file lokal.
 
-[LINK DOWNLOAD](https://gofile.io/d/Eb2FXj)
+[LINK DOWNLOAD](https://gofile.io/d/AauJkJ)
